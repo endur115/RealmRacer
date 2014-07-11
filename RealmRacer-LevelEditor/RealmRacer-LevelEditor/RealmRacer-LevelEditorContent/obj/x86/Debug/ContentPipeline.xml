@@ -1,0 +1,370 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Sprites\Hazards\Earth\stalagmite0.png</Source>
+      <Name>Sprites\Hazards\Earth\stalagmite0</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\TJ\documents\visual studio 2010\Projects\RealmRacer-LevelEditor\RealmRacer-LevelEditor\RealmRacer-LevelEditor\bin\x86\Debug\Content\Sprites\Hazards\Earth\stalagmite0.xnb</Output>
+      <Time>2011-04-08T10:35:14.763-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Hazards\Earth\stalagtite0.png</Source>
+      <Name>Sprites\Hazards\Earth\stalagtite0</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\TJ\documents\visual studio 2010\Projects\RealmRacer-LevelEditor\RealmRacer-LevelEditor\RealmRacer-LevelEditor\bin\x86\Debug\Content\Sprites\Hazards\Earth\stalagtite0.xnb</Output>
+      <Time>2011-04-08T10:35:14.773-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Hazards\Water\icicleDown0.png</Source>
+      <Name>Sprites\Hazards\Water\icicleDown0</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\TJ\documents\visual studio 2010\Projects\RealmRacer-LevelEditor\RealmRacer-LevelEditor\RealmRacer-LevelEditor\bin\x86\Debug\Content\Sprites\Hazards\Water\icicleDown0.xnb</Output>
+      <Time>2011-04-08T10:35:55.892-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Hazards\Water\icicleUp0.png</Source>
+      <Name>Sprites\Hazards\Water\icicleUp0</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\TJ\documents\visual studio 2010\Projects\RealmRacer-LevelEditor\RealmRacer-LevelEditor\RealmRacer-LevelEditor\bin\x86\Debug\Content\Sprites\Hazards\Water\icicleUp0.xnb</Output>
+      <Time>2011-04-08T10:35:55.904-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Hazards\Water\waterGeyserIdle.png</Source>
+      <Name>Sprites\Hazards\Water\waterGeyserIdle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\TJ\documents\visual studio 2010\Projects\RealmRacer-LevelEditor\RealmRacer-LevelEditor\RealmRacer-LevelEditor\bin\x86\Debug\Content\Sprites\Hazards\Water\waterGeyserIdle.xnb</Output>
+      <Time>2011-04-11T11:08:46.916-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Hazards\Wind\windGeyserIdle.png</Source>
+      <Name>Sprites\Hazards\Wind\windGeyserIdle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\TJ\documents\visual studio 2010\Projects\RealmRacer-LevelEditor\RealmRacer-LevelEditor\RealmRacer-LevelEditor\bin\x86\Debug\Content\Sprites\Hazards\Wind\windGeyserIdle.xnb</Output>
+      <Time>2011-04-11T11:09:04.154-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Player\Idle.png</Source>
+      <Name>Sprites\Player\Idle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\TJ\documents\visual studio 2010\Projects\RealmRacer-LevelEditor\RealmRacer-LevelEditor\RealmRacer-LevelEditor\bin\x86\Debug\Content\Sprites\Player\Idle.xnb</Output>
+      <Time>2011-04-11T10:42:02.804-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\Earth\earthBlock0.png</Source>
+      <Name>Tiles\Earth\earthBlock0</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\TJ\documents\visual studio 2010\Projects\RealmRacer-LevelEditor\RealmRacer-LevelEditor\RealmRacer-LevelEditor\bin\x86\Debug\Content\Tiles\Earth\earthBlock0.xnb</Output>
+      <Time>2011-04-08T10:36:52.89-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\Earth\earthPlatform0.png</Source>
+      <Name>Tiles\Earth\earthPlatform0</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\TJ\documents\visual studio 2010\Projects\RealmRacer-LevelEditor\RealmRacer-LevelEditor\RealmRacer-LevelEditor\bin\x86\Debug\Content\Tiles\Earth\earthPlatform0.xnb</Output>
+      <Time>2011-04-08T10:36:52.9-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\Earth\quicksand.png</Source>
+      <Name>Tiles\Earth\quicksand</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\TJ\documents\visual studio 2010\Projects\RealmRacer-LevelEditor\RealmRacer-LevelEditor\RealmRacer-LevelEditor\bin\x86\Debug\Content\Tiles\Earth\quicksand.xnb</Output>
+      <Time>2011-04-08T10:36:52.904-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\Fire\fireBlock0.png</Source>
+      <Name>Tiles\Fire\fireBlock0</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\TJ\documents\visual studio 2010\Projects\RealmRacer-LevelEditor\RealmRacer-LevelEditor\RealmRacer-LevelEditor\bin\x86\Debug\Content\Tiles\Fire\fireBlock0.xnb</Output>
+      <Time>2011-04-08T10:37:01.338-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\Fire\firePlatform0.png</Source>
+      <Name>Tiles\Fire\firePlatform0</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\TJ\documents\visual studio 2010\Projects\RealmRacer-LevelEditor\RealmRacer-LevelEditor\RealmRacer-LevelEditor\bin\x86\Debug\Content\Tiles\Fire\firePlatform0.xnb</Output>
+      <Time>2011-04-08T10:37:01.347-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\Fire\Lava.png</Source>
+      <Name>Tiles\Fire\Lava</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\TJ\documents\visual studio 2010\Projects\RealmRacer-LevelEditor\RealmRacer-LevelEditor\RealmRacer-LevelEditor\bin\x86\Debug\Content\Tiles\Fire\Lava.xnb</Output>
+      <Time>2011-04-08T10:37:17.004-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\Water\ice.png</Source>
+      <Name>Tiles\Water\ice</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\TJ\documents\visual studio 2010\Projects\RealmRacer-LevelEditor\RealmRacer-LevelEditor\RealmRacer-LevelEditor\bin\x86\Debug\Content\Tiles\Water\ice.xnb</Output>
+      <Time>2011-04-08T10:37:29.751-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\Water\underwater.png</Source>
+      <Name>Tiles\Water\underwater</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\TJ\documents\visual studio 2010\Projects\RealmRacer-LevelEditor\RealmRacer-LevelEditor\RealmRacer-LevelEditor\bin\x86\Debug\Content\Tiles\Water\underwater.xnb</Output>
+      <Time>2011-04-08T10:37:29.753-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\Water\waterBlock0.png</Source>
+      <Name>Tiles\Water\waterBlock0</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\TJ\documents\visual studio 2010\Projects\RealmRacer-LevelEditor\RealmRacer-LevelEditor\RealmRacer-LevelEditor\bin\x86\Debug\Content\Tiles\Water\waterBlock0.xnb</Output>
+      <Time>2011-04-08T10:37:29.755-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\Water\waterPlatform0.png</Source>
+      <Name>Tiles\Water\waterPlatform0</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\TJ\documents\visual studio 2010\Projects\RealmRacer-LevelEditor\RealmRacer-LevelEditor\RealmRacer-LevelEditor\bin\x86\Debug\Content\Tiles\Water\waterPlatform0.xnb</Output>
+      <Time>2011-04-08T10:37:29.765-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\Wind\windBlock0.png</Source>
+      <Name>Tiles\Wind\windBlock0</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\TJ\documents\visual studio 2010\Projects\RealmRacer-LevelEditor\RealmRacer-LevelEditor\RealmRacer-LevelEditor\bin\x86\Debug\Content\Tiles\Wind\windBlock0.xnb</Output>
+      <Time>2011-04-08T10:37:38.608-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\Wind\windCloud.png</Source>
+      <Name>Tiles\Wind\windCloud</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\TJ\documents\visual studio 2010\Projects\RealmRacer-LevelEditor\RealmRacer-LevelEditor\RealmRacer-LevelEditor\bin\x86\Debug\Content\Tiles\Wind\windCloud.xnb</Output>
+      <Time>2011-04-08T10:37:38.618-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\Wind\windPlatform0.png</Source>
+      <Name>Tiles\Wind\windPlatform0</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\TJ\documents\visual studio 2010\Projects\RealmRacer-LevelEditor\RealmRacer-LevelEditor\RealmRacer-LevelEditor\bin\x86\Debug\Content\Tiles\Wind\windPlatform0.xnb</Output>
+      <Time>2011-04-08T10:37:38.619-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Hazards\Fire\fireballD.png</Source>
+      <Name>Sprites\Hazards\Fire\fireballD</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\TJ\documents\visual studio 2010\Projects\RealmRacer-LevelEditor\RealmRacer-LevelEditor\RealmRacer-LevelEditor\bin\x86\Debug\Content\Sprites\Hazards\Fire\fireballD.xnb</Output>
+      <Time>2011-04-08T23:02:27.128-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Hazards\Fire\fireballL.png</Source>
+      <Name>Sprites\Hazards\Fire\fireballL</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\TJ\documents\visual studio 2010\Projects\RealmRacer-LevelEditor\RealmRacer-LevelEditor\RealmRacer-LevelEditor\bin\x86\Debug\Content\Sprites\Hazards\Fire\fireballL.xnb</Output>
+      <Time>2011-04-08T23:02:27.131-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Hazards\Fire\fireballR.png</Source>
+      <Name>Sprites\Hazards\Fire\fireballR</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\TJ\documents\visual studio 2010\Projects\RealmRacer-LevelEditor\RealmRacer-LevelEditor\RealmRacer-LevelEditor\bin\x86\Debug\Content\Sprites\Hazards\Fire\fireballR.xnb</Output>
+      <Time>2011-04-08T23:02:27.132-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Hazards\Fire\fireballU.png</Source>
+      <Name>Sprites\Hazards\Fire\fireballU</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\TJ\documents\visual studio 2010\Projects\RealmRacer-LevelEditor\RealmRacer-LevelEditor\RealmRacer-LevelEditor\bin\x86\Debug\Content\Sprites\Hazards\Fire\fireballU.xnb</Output>
+      <Time>2011-04-08T23:02:27.135-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\fragment.png</Source>
+      <Name>Sprites\fragment</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\TJ\documents\visual studio 2010\Projects\RealmRacer-LevelEditor\RealmRacer-LevelEditor\RealmRacer-LevelEditor\bin\x86\Debug\Content\Sprites\fragment.xnb</Output>
+      <Time>2011-04-11T10:20:13.644-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\gem.png</Source>
+      <Name>Sprites\gem</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\TJ\documents\visual studio 2010\Projects\RealmRacer-LevelEditor\RealmRacer-LevelEditor\RealmRacer-LevelEditor\bin\x86\Debug\Content\Sprites\gem.xnb</Output>
+      <Time>2011-04-11T10:20:13.676-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Hazards\Earth\quicksandStalagmite0.png</Source>
+      <Name>Sprites\Hazards\Earth\quicksandStalagmite0</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\TJ\documents\visual studio 2010\Projects\RealmRacer-LevelEditor\RealmRacer-LevelEditor\RealmRacer-LevelEditor\bin\x86\Debug\Content\Sprites\Hazards\Earth\quicksandStalagmite0.xnb</Output>
+      <Time>2011-04-11T10:30:28.449-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Hazards\Earth\quicksandStalagtite0.png</Source>
+      <Name>Sprites\Hazards\Earth\quicksandStalagtite0</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\TJ\documents\visual studio 2010\Projects\RealmRacer-LevelEditor\RealmRacer-LevelEditor\RealmRacer-LevelEditor\bin\x86\Debug\Content\Sprites\Hazards\Earth\quicksandStalagtite0.xnb</Output>
+      <Time>2011-04-11T10:30:28.472-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Hazards\Water\underwaterStalactite.png</Source>
+      <Name>Sprites\Hazards\Water\underwaterStalactite</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\TJ\documents\visual studio 2010\Projects\RealmRacer-LevelEditor\RealmRacer-LevelEditor\RealmRacer-LevelEditor\bin\x86\Debug\Content\Sprites\Hazards\Water\underwaterStalactite.xnb</Output>
+      <Time>2011-04-11T10:30:56.044-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Hazards\Water\underwaterStalagmite.png</Source>
+      <Name>Sprites\Hazards\Water\underwaterStalagmite</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\TJ\documents\visual studio 2010\Projects\RealmRacer-LevelEditor\RealmRacer-LevelEditor\RealmRacer-LevelEditor\bin\x86\Debug\Content\Sprites\Hazards\Water\underwaterStalagmite.xnb</Output>
+      <Time>2011-04-11T10:30:56.047-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\underwaterFragment.png</Source>
+      <Name>Sprites\underwaterFragment</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\TJ\documents\visual studio 2010\Projects\RealmRacer-LevelEditor\RealmRacer-LevelEditor\RealmRacer-LevelEditor\bin\x86\Debug\Content\Sprites\underwaterFragment.xnb</Output>
+      <Time>2011-04-11T10:31:20.206-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\quicksandFragment.png</Source>
+      <Name>Sprites\quicksandFragment</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\TJ\documents\visual studio 2010\Projects\RealmRacer-LevelEditor\RealmRacer-LevelEditor\RealmRacer-LevelEditor\bin\x86\Debug\Content\Sprites\quicksandFragment.xnb</Output>
+      <Time>2011-04-11T10:32:21.746-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Hazards\Fire\fireGeyserIdle.png</Source>
+      <Name>Sprites\Hazards\Fire\fireGeyserIdle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\TJ\documents\visual studio 2010\Projects\RealmRacer-LevelEditor\RealmRacer-LevelEditor\RealmRacer-LevelEditor\bin\x86\Debug\Content\Sprites\Hazards\Fire\fireGeyserIdle.xnb</Output>
+      <Time>2011-04-11T11:08:21.567-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Hazards\Fire\fireWall.png</Source>
+      <Name>Sprites\Hazards\Fire\fireWall</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\TJ\documents\visual studio 2010\Projects\RealmRacer-LevelEditor\RealmRacer-LevelEditor\RealmRacer-LevelEditor\bin\x86\Debug\Content\Sprites\Hazards\Fire\fireWall.xnb</Output>
+      <Time>2011-04-11T11:02:44.55-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Hazards\Wind\tornado.png</Source>
+      <Name>Sprites\Hazards\Wind\tornado</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\TJ\documents\visual studio 2010\Projects\RealmRacer-LevelEditor\RealmRacer-LevelEditor\RealmRacer-LevelEditor\bin\x86\Debug\Content\Sprites\Hazards\Wind\tornado.xnb</Output>
+      <Time>2011-04-11T11:09:17.512-05:00</Time>
+    </Item>
+    <Item>
+      <Source>border.png</Source>
+      <Name>border</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\TJ\documents\visual studio 2010\Projects\RealmRacer-LevelEditor\RealmRacer-LevelEditor\RealmRacer-LevelEditor\bin\x86\Debug\Content\border.xnb</Output>
+      <Time>2011-04-12T11:40:36.809-05:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\TJ\documents\visual studio 2010\Projects\RealmRacer-LevelEditor\RealmRacer-LevelEditor\RealmRacer-LevelEditorContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\TJ\documents\visual studio 2010\Projects\RealmRacer-LevelEditor\RealmRacer-LevelEditor\RealmRacer-LevelEditor\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\TJ\documents\visual studio 2010\Projects\RealmRacer-LevelEditor\RealmRacer-LevelEditor\RealmRacer-LevelEditorContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\TJ\documents\visual studio 2010\Projects\RealmRacer-LevelEditor\RealmRacer-LevelEditor\RealmRacer-LevelEditor\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T13:41:18-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T13:41:18-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T13:41:18-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T13:41:18-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T13:41:18-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T13:41:18-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2011-02-12T13:43:08.4636-06:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

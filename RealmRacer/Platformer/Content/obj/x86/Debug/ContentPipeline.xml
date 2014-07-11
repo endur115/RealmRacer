@@ -1,0 +1,919 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Overlays\you_died.png</Source>
+      <Name>Overlays\you_died</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\TJ\Documents\Visual Studio 2010\Projects\RealmRacer\Platformer\Platformer\bin\x86\Debug\Content\Overlays\you_died.xnb</Output>
+      <Time>2011-04-17T12:25:51.0118-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Overlays\you_lose.png</Source>
+      <Name>Overlays\you_lose</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\TJ\Documents\Visual Studio 2010\Projects\RealmRacer\Platformer\Platformer\bin\x86\Debug\Content\Overlays\you_lose.xnb</Output>
+      <Time>2011-04-17T12:25:51.7348-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Overlays\you_win.png</Source>
+      <Name>Overlays\you_win</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\TJ\Documents\Visual Studio 2010\Projects\RealmRacer\Platformer\Platformer\bin\x86\Debug\Content\Overlays\you_win.xnb</Output>
+      <Time>2011-04-17T12:25:52.1608-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Player\Run.png</Source>
+      <Name>Sprites\Player\Run</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\TJ\Documents\Visual Studio 2010\Projects\RealmRacer\Platformer\Platformer\bin\x86\Debug\Content\Sprites\Player\Run.xnb</Output>
+      <Time>2011-03-13T20:43:52.788-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Player\Idle.png</Source>
+      <Name>Sprites\Player\Idle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\TJ\Documents\Visual Studio 2010\Projects\RealmRacer\Platformer\Platformer\bin\x86\Debug\Content\Sprites\Player\Idle.xnb</Output>
+      <Time>2011-03-13T20:43:58.634-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Player\Die.png</Source>
+      <Name>Sprites\Player\Die</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\TJ\Documents\Visual Studio 2010\Projects\RealmRacer\Platformer\Platformer\bin\x86\Debug\Content\Sprites\Player\Die.xnb</Output>
+      <Time>2011-03-13T20:44:27.843-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Player\Celebrate.png</Source>
+      <Name>Sprites\Player\Celebrate</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\TJ\Documents\Visual Studio 2010\Projects\RealmRacer\Platformer\Platformer\bin\x86\Debug\Content\Sprites\Player\Celebrate.xnb</Output>
+      <Time>2011-03-13T20:44:30.793-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Player\Jump.png</Source>
+      <Name>Sprites\Player\Jump</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\TJ\Documents\Visual Studio 2010\Projects\RealmRacer\Platformer\Platformer\bin\x86\Debug\Content\Sprites\Player\Jump.xnb</Output>
+      <Time>2011-03-13T20:45:10.134-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\Earth\earthBlock0.png</Source>
+      <Name>Tiles\Earth\earthBlock0</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\TJ\Documents\Visual Studio 2010\Projects\RealmRacer\Platformer\Platformer\bin\x86\Debug\Content\Tiles\Earth\earthBlock0.xnb</Output>
+      <Time>2011-03-20T16:21:45.1262-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\Earth\earthBlock1.png</Source>
+      <Name>Tiles\Earth\earthBlock1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\TJ\Documents\Visual Studio 2010\Projects\RealmRacer\Platformer\Platformer\bin\x86\Debug\Content\Tiles\Earth\earthBlock1.xnb</Output>
+      <Time>2011-03-20T16:21:45.1282-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\Earth\earthBlock2.png</Source>
+      <Name>Tiles\Earth\earthBlock2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\TJ\Documents\Visual Studio 2010\Projects\RealmRacer\Platformer\Platformer\bin\x86\Debug\Content\Tiles\Earth\earthBlock2.xnb</Output>
+      <Time>2011-03-20T16:21:45.1302-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\Earth\earthBlock3.png</Source>
+      <Name>Tiles\Earth\earthBlock3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\TJ\Documents\Visual Studio 2010\Projects\RealmRacer\Platformer\Platformer\bin\x86\Debug\Content\Tiles\Earth\earthBlock3.xnb</Output>
+      <Time>2011-03-20T16:21:45.1322-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\Earth\earthBlock4.png</Source>
+      <Name>Tiles\Earth\earthBlock4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\TJ\Documents\Visual Studio 2010\Projects\RealmRacer\Platformer\Platformer\bin\x86\Debug\Content\Tiles\Earth\earthBlock4.xnb</Output>
+      <Time>2011-03-20T16:21:45.1342-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\Fire\fireBlock0.png</Source>
+      <Name>Tiles\Fire\fireBlock0</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\TJ\Documents\Visual Studio 2010\Projects\RealmRacer\Platformer\Platformer\bin\x86\Debug\Content\Tiles\Fire\fireBlock0.xnb</Output>
+      <Time>2011-03-20T16:21:45.1352-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\Fire\fireBlock1.png</Source>
+      <Name>Tiles\Fire\fireBlock1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\TJ\Documents\Visual Studio 2010\Projects\RealmRacer\Platformer\Platformer\bin\x86\Debug\Content\Tiles\Fire\fireBlock1.xnb</Output>
+      <Time>2011-03-20T16:21:45.1372-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\Fire\fireBlock2.png</Source>
+      <Name>Tiles\Fire\fireBlock2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\TJ\Documents\Visual Studio 2010\Projects\RealmRacer\Platformer\Platformer\bin\x86\Debug\Content\Tiles\Fire\fireBlock2.xnb</Output>
+      <Time>2011-03-20T16:21:45.1382-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\Fire\fireBlock3.png</Source>
+      <Name>Tiles\Fire\fireBlock3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\TJ\Documents\Visual Studio 2010\Projects\RealmRacer\Platformer\Platformer\bin\x86\Debug\Content\Tiles\Fire\fireBlock3.xnb</Output>
+      <Time>2011-03-20T16:21:45.1402-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\Fire\fireBlock4.png</Source>
+      <Name>Tiles\Fire\fireBlock4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\TJ\Documents\Visual Studio 2010\Projects\RealmRacer\Platformer\Platformer\bin\x86\Debug\Content\Tiles\Fire\fireBlock4.xnb</Output>
+      <Time>2011-03-20T16:21:45.1422-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\Water\waterBlock0.png</Source>
+      <Name>Tiles\Water\waterBlock0</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\TJ\Documents\Visual Studio 2010\Projects\RealmRacer\Platformer\Platformer\bin\x86\Debug\Content\Tiles\Water\waterBlock0.xnb</Output>
+      <Time>2011-03-20T16:21:45.1432-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\Water\waterBlock1.png</Source>
+      <Name>Tiles\Water\waterBlock1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\TJ\Documents\Visual Studio 2010\Projects\RealmRacer\Platformer\Platformer\bin\x86\Debug\Content\Tiles\Water\waterBlock1.xnb</Output>
+      <Time>2011-03-20T16:21:45.1452-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\Water\waterBlock2.png</Source>
+      <Name>Tiles\Water\waterBlock2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\TJ\Documents\Visual Studio 2010\Projects\RealmRacer\Platformer\Platformer\bin\x86\Debug\Content\Tiles\Water\waterBlock2.xnb</Output>
+      <Time>2011-03-20T16:21:45.1462-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\Water\waterBlock3.png</Source>
+      <Name>Tiles\Water\waterBlock3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\TJ\Documents\Visual Studio 2010\Projects\RealmRacer\Platformer\Platformer\bin\x86\Debug\Content\Tiles\Water\waterBlock3.xnb</Output>
+      <Time>2011-03-20T16:21:45.1482-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\Water\waterBlock4.png</Source>
+      <Name>Tiles\Water\waterBlock4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\TJ\Documents\Visual Studio 2010\Projects\RealmRacer\Platformer\Platformer\bin\x86\Debug\Content\Tiles\Water\waterBlock4.xnb</Output>
+      <Time>2011-03-20T16:21:45.1502-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\Wind\windBlock0.png</Source>
+      <Name>Tiles\Wind\windBlock0</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\TJ\Documents\Visual Studio 2010\Projects\RealmRacer\Platformer\Platformer\bin\x86\Debug\Content\Tiles\Wind\windBlock0.xnb</Output>
+      <Time>2011-03-20T16:21:45.1512-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\Wind\windBlock1.png</Source>
+      <Name>Tiles\Wind\windBlock1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\TJ\Documents\Visual Studio 2010\Projects\RealmRacer\Platformer\Platformer\bin\x86\Debug\Content\Tiles\Wind\windBlock1.xnb</Output>
+      <Time>2011-03-20T16:21:45.1532-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\Wind\windBlock2.png</Source>
+      <Name>Tiles\Wind\windBlock2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\TJ\Documents\Visual Studio 2010\Projects\RealmRacer\Platformer\Platformer\bin\x86\Debug\Content\Tiles\Wind\windBlock2.xnb</Output>
+      <Time>2011-03-20T16:21:45.1542-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\Wind\windBlock3.png</Source>
+      <Name>Tiles\Wind\windBlock3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\TJ\Documents\Visual Studio 2010\Projects\RealmRacer\Platformer\Platformer\bin\x86\Debug\Content\Tiles\Wind\windBlock3.xnb</Output>
+      <Time>2011-03-20T16:21:45.1562-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\Wind\windBlock4.png</Source>
+      <Name>Tiles\Wind\windBlock4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\TJ\Documents\Visual Studio 2010\Projects\RealmRacer\Platformer\Platformer\bin\x86\Debug\Content\Tiles\Wind\windBlock4.xnb</Output>
+      <Time>2011-03-20T16:21:45.1582-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\Earth\earthPlatform0.png</Source>
+      <Name>Tiles\Earth\earthPlatform0</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\TJ\Documents\Visual Studio 2010\Projects\RealmRacer\Platformer\Platformer\bin\x86\Debug\Content\Tiles\Earth\earthPlatform0.xnb</Output>
+      <Time>2011-03-20T16:37:55.6012-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\Earth\earthPlatform1.png</Source>
+      <Name>Tiles\Earth\earthPlatform1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\TJ\Documents\Visual Studio 2010\Projects\RealmRacer\Platformer\Platformer\bin\x86\Debug\Content\Tiles\Earth\earthPlatform1.xnb</Output>
+      <Time>2011-03-20T16:37:55.6122-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\Fire\firePlatform0.png</Source>
+      <Name>Tiles\Fire\firePlatform0</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\TJ\Documents\Visual Studio 2010\Projects\RealmRacer\Platformer\Platformer\bin\x86\Debug\Content\Tiles\Fire\firePlatform0.xnb</Output>
+      <Time>2011-03-20T16:37:55.6142-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\Fire\firePlatform1.png</Source>
+      <Name>Tiles\Fire\firePlatform1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\TJ\Documents\Visual Studio 2010\Projects\RealmRacer\Platformer\Platformer\bin\x86\Debug\Content\Tiles\Fire\firePlatform1.xnb</Output>
+      <Time>2011-03-20T16:37:55.6162-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\Water\waterPlatform0.png</Source>
+      <Name>Tiles\Water\waterPlatform0</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\TJ\Documents\Visual Studio 2010\Projects\RealmRacer\Platformer\Platformer\bin\x86\Debug\Content\Tiles\Water\waterPlatform0.xnb</Output>
+      <Time>2011-03-20T16:37:55.6172-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\Water\waterPlatform1.png</Source>
+      <Name>Tiles\Water\waterPlatform1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\TJ\Documents\Visual Studio 2010\Projects\RealmRacer\Platformer\Platformer\bin\x86\Debug\Content\Tiles\Water\waterPlatform1.xnb</Output>
+      <Time>2011-03-20T16:37:55.6192-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\Wind\windPlatform0.png</Source>
+      <Name>Tiles\Wind\windPlatform0</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\TJ\Documents\Visual Studio 2010\Projects\RealmRacer\Platformer\Platformer\bin\x86\Debug\Content\Tiles\Wind\windPlatform0.xnb</Output>
+      <Time>2011-03-20T16:37:55.6212-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\Wind\windPlatform1.png</Source>
+      <Name>Tiles\Wind\windPlatform1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\TJ\Documents\Visual Studio 2010\Projects\RealmRacer\Platformer\Platformer\bin\x86\Debug\Content\Tiles\Wind\windPlatform1.xnb</Output>
+      <Time>2011-03-20T16:37:55.6222-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Gem.png</Source>
+      <Name>Sprites\Gem</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\TJ\Documents\Visual Studio 2010\Projects\RealmRacer\Platformer\Platformer\bin\x86\Debug\Content\Sprites\Gem.xnb</Output>
+      <Time>2011-03-20T17:41:15.7532-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Fragment.png</Source>
+      <Name>Sprites\Fragment</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\TJ\Documents\Visual Studio 2010\Projects\RealmRacer\Platformer\Platformer\bin\x86\Debug\Content\Sprites\Fragment.xnb</Output>
+      <Time>2011-03-20T17:43:05.6272-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Hazards\Earth\boulder.png</Source>
+      <Name>Sprites\Hazards\Earth\boulder</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\TJ\Documents\Visual Studio 2010\Projects\RealmRacer\Platformer\Platformer\bin\x86\Debug\Content\Sprites\Hazards\Earth\boulder.xnb</Output>
+      <Time>2011-03-20T21:24:13.2562-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Hazards\Earth\stalagmite1.png</Source>
+      <Name>Sprites\Hazards\Earth\stalagmite1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\TJ\Documents\Visual Studio 2010\Projects\RealmRacer\Platformer\Platformer\bin\x86\Debug\Content\Sprites\Hazards\Earth\stalagmite1.xnb</Output>
+      <Time>2011-03-20T21:24:13.2592-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Hazards\Earth\stalagmite2.png</Source>
+      <Name>Sprites\Hazards\Earth\stalagmite2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\TJ\Documents\Visual Studio 2010\Projects\RealmRacer\Platformer\Platformer\bin\x86\Debug\Content\Sprites\Hazards\Earth\stalagmite2.xnb</Output>
+      <Time>2011-03-20T21:24:13.2612-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Hazards\Earth\stalagmite3.png</Source>
+      <Name>Sprites\Hazards\Earth\stalagmite3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\TJ\Documents\Visual Studio 2010\Projects\RealmRacer\Platformer\Platformer\bin\x86\Debug\Content\Sprites\Hazards\Earth\stalagmite3.xnb</Output>
+      <Time>2011-03-20T21:24:13.2632-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Hazards\Earth\stalagmite4.png</Source>
+      <Name>Sprites\Hazards\Earth\stalagmite4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\TJ\Documents\Visual Studio 2010\Projects\RealmRacer\Platformer\Platformer\bin\x86\Debug\Content\Sprites\Hazards\Earth\stalagmite4.xnb</Output>
+      <Time>2011-03-20T21:24:13.2642-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Hazards\Earth\stalagtite0.png</Source>
+      <Name>Sprites\Hazards\Earth\stalagtite0</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\TJ\Documents\Visual Studio 2010\Projects\RealmRacer\Platformer\Platformer\bin\x86\Debug\Content\Sprites\Hazards\Earth\stalagtite0.xnb</Output>
+      <Time>2011-03-20T21:24:13.2662-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Hazards\Earth\stalagtite1.png</Source>
+      <Name>Sprites\Hazards\Earth\stalagtite1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\TJ\Documents\Visual Studio 2010\Projects\RealmRacer\Platformer\Platformer\bin\x86\Debug\Content\Sprites\Hazards\Earth\stalagtite1.xnb</Output>
+      <Time>2011-03-20T21:24:13.2672-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Hazards\Earth\stalagtite2.png</Source>
+      <Name>Sprites\Hazards\Earth\stalagtite2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\TJ\Documents\Visual Studio 2010\Projects\RealmRacer\Platformer\Platformer\bin\x86\Debug\Content\Sprites\Hazards\Earth\stalagtite2.xnb</Output>
+      <Time>2011-03-20T21:24:13.2692-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Hazards\Earth\stalagtite3.png</Source>
+      <Name>Sprites\Hazards\Earth\stalagtite3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\TJ\Documents\Visual Studio 2010\Projects\RealmRacer\Platformer\Platformer\bin\x86\Debug\Content\Sprites\Hazards\Earth\stalagtite3.xnb</Output>
+      <Time>2011-03-20T21:24:13.2712-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Hazards\Earth\stalagmite0.png</Source>
+      <Name>Sprites\Hazards\Earth\stalagmite0</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\TJ\Documents\Visual Studio 2010\Projects\RealmRacer\Platformer\Platformer\bin\x86\Debug\Content\Sprites\Hazards\Earth\stalagmite0.xnb</Output>
+      <Time>2011-03-21T14:23:10.8222-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Hazards\Earth\stalagtite4.png</Source>
+      <Name>Sprites\Hazards\Earth\stalagtite4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\TJ\Documents\Visual Studio 2010\Projects\RealmRacer\Platformer\Platformer\bin\x86\Debug\Content\Sprites\Hazards\Earth\stalagtite4.xnb</Output>
+      <Time>2011-03-21T14:23:10.8252-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\Wind\windCloud.png</Source>
+      <Name>Tiles\Wind\windCloud</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\TJ\Documents\Visual Studio 2010\Projects\RealmRacer\Platformer\Platformer\bin\x86\Debug\Content\Tiles\Wind\windCloud.xnb</Output>
+      <Time>2011-03-22T12:32:07.2542-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Hazards\Earth\quicksandStalagmite0.png</Source>
+      <Name>Sprites\Hazards\Earth\quicksandStalagmite0</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\TJ\Documents\Visual Studio 2010\Projects\RealmRacer\Platformer\Platformer\bin\x86\Debug\Content\Sprites\Hazards\Earth\quicksandStalagmite0.xnb</Output>
+      <Time>2011-03-22T15:21:38.4572-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Hazards\Earth\quicksandStalagmite1.png</Source>
+      <Name>Sprites\Hazards\Earth\quicksandStalagmite1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\TJ\Documents\Visual Studio 2010\Projects\RealmRacer\Platformer\Platformer\bin\x86\Debug\Content\Sprites\Hazards\Earth\quicksandStalagmite1.xnb</Output>
+      <Time>2011-03-22T15:21:38.4592-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Hazards\Earth\quicksandStalagmite2.png</Source>
+      <Name>Sprites\Hazards\Earth\quicksandStalagmite2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\TJ\Documents\Visual Studio 2010\Projects\RealmRacer\Platformer\Platformer\bin\x86\Debug\Content\Sprites\Hazards\Earth\quicksandStalagmite2.xnb</Output>
+      <Time>2011-03-22T15:21:38.4612-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Hazards\Earth\quicksandStalagmite3.png</Source>
+      <Name>Sprites\Hazards\Earth\quicksandStalagmite3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\TJ\Documents\Visual Studio 2010\Projects\RealmRacer\Platformer\Platformer\bin\x86\Debug\Content\Sprites\Hazards\Earth\quicksandStalagmite3.xnb</Output>
+      <Time>2011-03-22T15:21:38.4632-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Hazards\Earth\quicksandStalagmite4.png</Source>
+      <Name>Sprites\Hazards\Earth\quicksandStalagmite4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\TJ\Documents\Visual Studio 2010\Projects\RealmRacer\Platformer\Platformer\bin\x86\Debug\Content\Sprites\Hazards\Earth\quicksandStalagmite4.xnb</Output>
+      <Time>2011-03-22T15:21:38.4652-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Hazards\Earth\quicksandStalagtite0.png</Source>
+      <Name>Sprites\Hazards\Earth\quicksandStalagtite0</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\TJ\Documents\Visual Studio 2010\Projects\RealmRacer\Platformer\Platformer\bin\x86\Debug\Content\Sprites\Hazards\Earth\quicksandStalagtite0.xnb</Output>
+      <Time>2011-03-22T15:21:38.4672-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Hazards\Earth\quicksandStalagtite1.png</Source>
+      <Name>Sprites\Hazards\Earth\quicksandStalagtite1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\TJ\Documents\Visual Studio 2010\Projects\RealmRacer\Platformer\Platformer\bin\x86\Debug\Content\Sprites\Hazards\Earth\quicksandStalagtite1.xnb</Output>
+      <Time>2011-03-22T15:21:38.4682-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Hazards\Earth\quicksandStalagtite2.png</Source>
+      <Name>Sprites\Hazards\Earth\quicksandStalagtite2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\TJ\Documents\Visual Studio 2010\Projects\RealmRacer\Platformer\Platformer\bin\x86\Debug\Content\Sprites\Hazards\Earth\quicksandStalagtite2.xnb</Output>
+      <Time>2011-03-22T15:21:38.4702-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Hazards\Earth\quicksandStalagtite3.png</Source>
+      <Name>Sprites\Hazards\Earth\quicksandStalagtite3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\TJ\Documents\Visual Studio 2010\Projects\RealmRacer\Platformer\Platformer\bin\x86\Debug\Content\Sprites\Hazards\Earth\quicksandStalagtite3.xnb</Output>
+      <Time>2011-03-22T15:21:38.4722-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Hazards\Earth\quicksandStalagtite4.png</Source>
+      <Name>Sprites\Hazards\Earth\quicksandStalagtite4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\TJ\Documents\Visual Studio 2010\Projects\RealmRacer\Platformer\Platformer\bin\x86\Debug\Content\Sprites\Hazards\Earth\quicksandStalagtite4.xnb</Output>
+      <Time>2011-03-22T15:21:38.4742-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Hazards\Wind\windVortex.png</Source>
+      <Name>Sprites\Hazards\Wind\windVortex</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\TJ\Documents\Visual Studio 2010\Projects\RealmRacer\Platformer\Platformer\bin\x86\Debug\Content\Sprites\Hazards\Wind\windVortex.xnb</Output>
+      <Time>2011-03-23T16:32:44.948-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Hazards\Water\icicleDown0.png</Source>
+      <Name>Sprites\Hazards\Water\icicleDown0</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\TJ\Documents\Visual Studio 2010\Projects\RealmRacer\Platformer\Platformer\bin\x86\Debug\Content\Sprites\Hazards\Water\icicleDown0.xnb</Output>
+      <Time>2011-03-29T10:43:35.385-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Hazards\Water\icicleDown1.png</Source>
+      <Name>Sprites\Hazards\Water\icicleDown1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\TJ\Documents\Visual Studio 2010\Projects\RealmRacer\Platformer\Platformer\bin\x86\Debug\Content\Sprites\Hazards\Water\icicleDown1.xnb</Output>
+      <Time>2011-03-29T10:43:35.387-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Hazards\Water\icicleDown2.png</Source>
+      <Name>Sprites\Hazards\Water\icicleDown2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\TJ\Documents\Visual Studio 2010\Projects\RealmRacer\Platformer\Platformer\bin\x86\Debug\Content\Sprites\Hazards\Water\icicleDown2.xnb</Output>
+      <Time>2011-03-29T10:43:35.389-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Hazards\Water\icicleDown3.png</Source>
+      <Name>Sprites\Hazards\Water\icicleDown3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\TJ\Documents\Visual Studio 2010\Projects\RealmRacer\Platformer\Platformer\bin\x86\Debug\Content\Sprites\Hazards\Water\icicleDown3.xnb</Output>
+      <Time>2011-03-29T10:43:35.391-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Hazards\Water\icicleDown4.png</Source>
+      <Name>Sprites\Hazards\Water\icicleDown4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\TJ\Documents\Visual Studio 2010\Projects\RealmRacer\Platformer\Platformer\bin\x86\Debug\Content\Sprites\Hazards\Water\icicleDown4.xnb</Output>
+      <Time>2011-03-29T10:43:35.392-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Hazards\Water\icicleUp0.png</Source>
+      <Name>Sprites\Hazards\Water\icicleUp0</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\TJ\Documents\Visual Studio 2010\Projects\RealmRacer\Platformer\Platformer\bin\x86\Debug\Content\Sprites\Hazards\Water\icicleUp0.xnb</Output>
+      <Time>2011-03-29T10:43:35.394-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Hazards\Water\icicleUp1.png</Source>
+      <Name>Sprites\Hazards\Water\icicleUp1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\TJ\Documents\Visual Studio 2010\Projects\RealmRacer\Platformer\Platformer\bin\x86\Debug\Content\Sprites\Hazards\Water\icicleUp1.xnb</Output>
+      <Time>2011-03-29T10:43:35.404-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Hazards\Water\icicleUp2.png</Source>
+      <Name>Sprites\Hazards\Water\icicleUp2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\TJ\Documents\Visual Studio 2010\Projects\RealmRacer\Platformer\Platformer\bin\x86\Debug\Content\Sprites\Hazards\Water\icicleUp2.xnb</Output>
+      <Time>2011-03-29T10:43:35.406-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Hazards\Water\icicleUp3.png</Source>
+      <Name>Sprites\Hazards\Water\icicleUp3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\TJ\Documents\Visual Studio 2010\Projects\RealmRacer\Platformer\Platformer\bin\x86\Debug\Content\Sprites\Hazards\Water\icicleUp3.xnb</Output>
+      <Time>2011-03-29T10:43:35.408-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Hazards\Water\icicleUp4.png</Source>
+      <Name>Sprites\Hazards\Water\icicleUp4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\TJ\Documents\Visual Studio 2010\Projects\RealmRacer\Platformer\Platformer\bin\x86\Debug\Content\Sprites\Hazards\Water\icicleUp4.xnb</Output>
+      <Time>2011-03-29T10:43:35.41-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\Water\ice.png</Source>
+      <Name>Tiles\Water\ice</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\TJ\Documents\Visual Studio 2010\Projects\RealmRacer\Platformer\Platformer\bin\x86\Debug\Content\Tiles\Water\ice.xnb</Output>
+      <Time>2011-03-29T11:31:07.721-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\Hud.spritefont</Source>
+      <Name>Fonts\Hud</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\TJ\Documents\Visual Studio 2010\Projects\RealmRacer\Platformer\Platformer\bin\x86\Debug\Content\Fonts\Hud.xnb</Output>
+      <Time>2011-03-14T22:19:05.3878-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Hazards\Water\waterGeyserUpShoot.png</Source>
+      <Name>Sprites\Hazards\Water\waterGeyserUpShoot</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\TJ\Documents\Visual Studio 2010\Projects\RealmRacer\Platformer\Platformer\bin\x86\Debug\Content\Sprites\Hazards\Water\waterGeyserUpShoot.xnb</Output>
+      <Time>2011-03-31T20:25:18.5062-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Hazards\Water\waterGeyserUpIdle.png</Source>
+      <Name>Sprites\Hazards\Water\waterGeyserUpIdle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\TJ\Documents\Visual Studio 2010\Projects\RealmRacer\Platformer\Platformer\bin\x86\Debug\Content\Sprites\Hazards\Water\waterGeyserUpIdle.xnb</Output>
+      <Time>2011-03-31T20:27:09.4382-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Hazards\Wind\windGeyserUpIdle.png</Source>
+      <Name>Sprites\Hazards\Wind\windGeyserUpIdle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\TJ\Documents\Visual Studio 2010\Projects\RealmRacer\Platformer\Platformer\bin\x86\Debug\Content\Sprites\Hazards\Wind\windGeyserUpIdle.xnb</Output>
+      <Time>2011-04-01T19:48:28.5462-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Hazards\Wind\windGeyserUpShoot.png</Source>
+      <Name>Sprites\Hazards\Wind\windGeyserUpShoot</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\TJ\Documents\Visual Studio 2010\Projects\RealmRacer\Platformer\Platformer\bin\x86\Debug\Content\Sprites\Hazards\Wind\windGeyserUpShoot.xnb</Output>
+      <Time>2011-04-01T19:48:28.5492-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Hazards\Fire\fireGeyserUpShoot.png</Source>
+      <Name>Sprites\Hazards\Fire\fireGeyserUpShoot</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\TJ\Documents\Visual Studio 2010\Projects\RealmRacer\Platformer\Platformer\bin\x86\Debug\Content\Sprites\Hazards\Fire\fireGeyserUpShoot.xnb</Output>
+      <Time>2011-04-01T19:49:10.4602-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Hazards\Fire\fireball.png</Source>
+      <Name>Sprites\Hazards\Fire\fireball</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\TJ\Documents\Visual Studio 2010\Projects\RealmRacer\Platformer\Platformer\bin\x86\Debug\Content\Sprites\Hazards\Fire\fireball.xnb</Output>
+      <Time>2011-04-02T14:20:33.0692-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\Earth\quicksand0.png</Source>
+      <Name>Tiles\Earth\quicksand0</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\TJ\Documents\Visual Studio 2010\Projects\RealmRacer\Platformer\Platformer\bin\x86\Debug\Content\Tiles\Earth\quicksand0.xnb</Output>
+      <Time>2011-03-21T10:43:17.6142-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Hazards\Fire\fire0.png</Source>
+      <Name>Sprites\Hazards\Fire\fire0</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\TJ\Documents\Visual Studio 2010\Projects\RealmRacer\Platformer\Platformer\bin\x86\Debug\Content\Sprites\Hazards\Fire\fire0.xnb</Output>
+      <Time>2011-04-04T13:51:37.6088-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\Fire\Lava.png</Source>
+      <Name>Tiles\Fire\Lava</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\TJ\Documents\Visual Studio 2010\Projects\RealmRacer\Platformer\Platformer\bin\x86\Debug\Content\Tiles\Fire\Lava.xnb</Output>
+      <Time>2011-04-03T23:25:49.052-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Hazards\Fire\fireGeyserUpIdle.png</Source>
+      <Name>Sprites\Hazards\Fire\fireGeyserUpIdle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\TJ\Documents\Visual Studio 2010\Projects\RealmRacer\Platformer\Platformer\bin\x86\Debug\Content\Sprites\Hazards\Fire\fireGeyserUpIdle.xnb</Output>
+      <Time>2011-04-01T19:49:10.4622-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu\MainMenu.png</Source>
+      <Name>Menu\MainMenu</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\TJ\Documents\Visual Studio 2010\Projects\RealmRacer\Platformer\Platformer\bin\x86\Debug\Content\Menu\MainMenu.xnb</Output>
+      <Time>2011-04-13T12:09:57.823-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu\play.png</Source>
+      <Name>Menu\play</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\TJ\Documents\Visual Studio 2010\Projects\RealmRacer\Platformer\Platformer\bin\x86\Debug\Content\Menu\play.xnb</Output>
+      <Time>2011-04-13T12:09:57.825-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu\quit.png</Source>
+      <Name>Menu\quit</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\TJ\Documents\Visual Studio 2010\Projects\RealmRacer\Platformer\Platformer\bin\x86\Debug\Content\Menu\quit.xnb</Output>
+      <Time>2011-04-13T12:09:57.826-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu\scores.png</Source>
+      <Name>Menu\scores</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\TJ\Documents\Visual Studio 2010\Projects\RealmRacer\Platformer\Platformer\bin\x86\Debug\Content\Menu\scores.xnb</Output>
+      <Time>2011-04-13T12:46:51.1-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu\menu.png</Source>
+      <Name>Menu\menu</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\TJ\Documents\Visual Studio 2010\Projects\RealmRacer\Platformer\Platformer\bin\x86\Debug\Content\Menu\menu.xnb</Output>
+      <Time>2011-04-13T12:52:53.146-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu\HighScores.png</Source>
+      <Name>Menu\HighScores</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\TJ\Documents\Visual Studio 2010\Projects\RealmRacer\Platformer\Platformer\bin\x86\Debug\Content\Menu\HighScores.xnb</Output>
+      <Time>2011-04-13T12:57:34.225-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Backgrounds\earthBkg0.png</Source>
+      <Name>Backgrounds\earthBkg0</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\TJ\Documents\Visual Studio 2010\Projects\RealmRacer\Platformer\Platformer\bin\x86\Debug\Content\Backgrounds\earthBkg0.xnb</Output>
+      <Time>2011-04-13T19:55:45.502-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu\reset.png</Source>
+      <Name>Menu\reset</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\TJ\Documents\Visual Studio 2010\Projects\RealmRacer\Platformer\Platformer\bin\x86\Debug\Content\Menu\reset.xnb</Output>
+      <Time>2011-04-14T11:36:30.312-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu\load.png</Source>
+      <Name>Menu\load</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\TJ\Documents\Visual Studio 2010\Projects\RealmRacer\Platformer\Platformer\bin\x86\Debug\Content\Menu\load.xnb</Output>
+      <Time>2011-04-14T12:14:32.579-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu\loadGrey.png</Source>
+      <Name>Menu\loadGrey</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\TJ\Documents\Visual Studio 2010\Projects\RealmRacer\Platformer\Platformer\bin\x86\Debug\Content\Menu\loadGrey.xnb</Output>
+      <Time>2011-04-15T12:29:13.887-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\Water\underwater0.png</Source>
+      <Name>Tiles\Water\underwater0</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\TJ\Documents\Visual Studio 2010\Projects\RealmRacer\Platformer\Platformer\bin\x86\Debug\Content\Tiles\Water\underwater0.xnb</Output>
+      <Time>2011-03-29T10:58:41.961-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Backgrounds\fireBkg0.png</Source>
+      <Name>Backgrounds\fireBkg0</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\TJ\Documents\Visual Studio 2010\Projects\RealmRacer\Platformer\Platformer\bin\x86\Debug\Content\Backgrounds\fireBkg0.xnb</Output>
+      <Time>2011-04-17T12:14:40.8178-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Backgrounds\waterBkg0.png</Source>
+      <Name>Backgrounds\waterBkg0</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\TJ\Documents\Visual Studio 2010\Projects\RealmRacer\Platformer\Platformer\bin\x86\Debug\Content\Backgrounds\waterBkg0.xnb</Output>
+      <Time>2011-04-17T11:46:07.1708-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Backgrounds\windBkg0.png</Source>
+      <Name>Backgrounds\windBkg0</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\TJ\Documents\Visual Studio 2010\Projects\RealmRacer\Platformer\Platformer\bin\x86\Debug\Content\Backgrounds\windBkg0.xnb</Output>
+      <Time>2011-04-17T12:06:45.2838-05:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\TJ\Documents\Visual Studio 2010\Projects\RealmRacer\Platformer\Content\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\TJ\Documents\Visual Studio 2010\Projects\RealmRacer\Platformer\Platformer\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\TJ\Documents\Visual Studio 2010\Projects\RealmRacer\Platformer\Content\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\TJ\Documents\Visual Studio 2010\Projects\RealmRacer\Platformer\Platformer\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T13:41:18-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T13:41:18-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T13:41:18-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T13:41:18-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T13:41:18-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T13:41:18-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2011-02-12T13:43:08.4636-06:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
